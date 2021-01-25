@@ -1,0 +1,2 @@
+# shep
+principled investing strategies

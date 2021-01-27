@@ -1,0 +1,9 @@
+*.aux
+*.gz
+*.log
+*.pyc
+*.tex
+
+data/*
+docs/*
+keys.txt
